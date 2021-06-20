@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @as169m
-- 👀 I’m interested in web and desktop development
-- 🌱 I’m currently learning react/mern
+- 👀 I love coding
+- 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate on software 
 - 📫 How to reach me akv7@ymail.com
 
