@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @as169m
 - 👀 I love coding
-- 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate on software 
 - 📫 How to reach me akv7@ymail.com
 
